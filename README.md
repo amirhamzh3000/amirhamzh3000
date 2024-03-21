@@ -1,0 +1,4 @@
+- 👋 Hi, I’m amirhamzh bagheri live in iran 
+- 👀 I’m interested in python , django 
+- 🌱 I’m currently learning django 
+- 📫 How to reach me amirhamzh3000@gmail.com
